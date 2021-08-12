@@ -1,0 +1,12 @@
+body{
+  background-image:linear-gradient(to right top, #ff0000, #eeff00, rgb(0, 255, 21), #00eeff, #0400ff);  
+  color: black;
+}
+ .heading{
+ width:80%;
+ font-size:20px;
+ }
+  
+ .nameofobjects , #result_object_name , #result_object_accuracy{
+   color: rgb(0, 0, 0);
+ }
